@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 dist/
@@ -12,3 +13,11 @@ dist/
 .DS_Store
 .env
 *.log
+=======
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+>>>>>>> dc5beda28b712fac5bcba74ca3b1c3eb5be90370
