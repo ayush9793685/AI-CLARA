@@ -1,6 +1,14 @@
-node_modules
-dist
+# Dependencies
+node_modules/
+dist/
+
+# Replit junk (these folders cause most "can't add" problems)
+.local/
+.agents/
+.replit/
+.replit/
+
+# Misc
 .DS_Store
-server/public
-vite.config.ts.*
-*.tar.gz
+.env
+*.log

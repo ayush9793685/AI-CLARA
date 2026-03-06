@@ -1,5 +1,4 @@
 import { z } from 'zod';
-import { insertAccountSchema } from './schema';
 import type { Account, AccountDetailsResponse } from './schema';
 
 export const errorSchemas = {
